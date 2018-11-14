@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "1uo-Om-DFo"; */
+"1uo-Om-DFo.normalTitle" = "Log in";
+
+/* Class = "UITextField"; text = "E-mail Address...."; ObjectID = "ABw-tF-9Fn"; */
+"ABw-tF-9Fn.text" = "E-mail Address....";
+
+/* Class = "UILabel"; text = "Welcome to Flash Chat"; ObjectID = "BRB-Av-p8h"; */
+"BRB-Av-p8h.text" = "Welcome to Flash Chat";
+
+/* Class = "UITextField"; text = "Password..."; ObjectID = "DgY-pB-ehf"; */
+"DgY-pB-ehf.text" = "Password...";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "HWh-Fk-cNQ"; */
+"HWh-Fk-cNQ.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Starting texting your friends around the world "; ObjectID = "Hek-Qi-fjW"; */
+"Hek-Qi-fjW.text" = "Starting texting your friends around the world ";
+
+/* Class = "UINavigationItem"; title = "Welcome Screen"; ObjectID = "Upa-5h-Hfc"; */
+"Upa-5h-Hfc.title" = "Welcome Screen";
+
+/* Class = "UITextField"; text = "E-mail Address...."; ObjectID = "fTF-gN-H40"; */
+"fTF-gN-H40.text" = "E-mail Address....";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "uhB-od-fMh"; */
+"uhB-od-fMh.normalTitle" = "Register";
+
+/* Class = "UITextField"; text = "Password..."; ObjectID = "y98-dR-h67"; */
+"y98-dR-h67.text" = "Password...";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "yyo-pM-YHG"; */
+"yyo-pM-YHG.normalTitle" = "Register";
